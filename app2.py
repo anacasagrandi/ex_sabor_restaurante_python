@@ -9,7 +9,7 @@ restaurantes = [{'nome': 'Praça','categoria': 'Japonesa', 'ativo': False},
 # Função que exibe título da aplicação
 def exibir_nome_do_programa():
     print("""
-          Sᴀʙoʀ ᴇxᴘʀᴇss 
+          Sᴀʙoʀ ᴇxᴘʀᴇss cç
           """)
     
 # Função que exibe o Menu de opções da aplicação 
